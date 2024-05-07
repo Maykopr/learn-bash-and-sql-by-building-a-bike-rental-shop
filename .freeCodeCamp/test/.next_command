@@ -205,3 +205,5 @@ clear
 ./bike-shop.sh
 ./bike-shop.sh
 echo ' M e '
+echo "$(' M e ')."
+echo "$(echo ' M e ')."
