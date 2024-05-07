@@ -187,3 +187,4 @@ psql --username=freecodecamp --dbname=bikes
 echo '28 | Mountain'
 echo '28 | Mountain'
 echo '28 | Mountain'
+echo '28 | Mountain'
