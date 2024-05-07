@@ -201,3 +201,5 @@ echo '28 | Moutain'
 echo '28 | Moutain'
 echo '28 | Mountain'
 echo '28 | Mountain'
+clear
+./bike-shop.sh
