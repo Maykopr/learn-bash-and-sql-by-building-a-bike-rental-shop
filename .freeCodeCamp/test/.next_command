@@ -94,3 +94,5 @@ man test
 clear
 ./bike-shop.sh
 __vsc_prompt_cmd_original
+clear
+./bike-shop.sh
